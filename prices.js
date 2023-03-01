@@ -127,7 +127,7 @@ var products = {
             minPrice: 1.8
         },
         {
-            name: "1929",
+            name: "1925",
             originalPrice: 2.5,
             maxPrice: 3,
             minPrice: 1.8
